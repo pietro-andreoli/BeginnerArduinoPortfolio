@@ -5,3 +5,5 @@ libraries/
 test/
 
 PrivateProjects/
+
+.metadata/
